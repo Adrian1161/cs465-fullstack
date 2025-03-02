@@ -33,3 +33,5 @@ test('GET /api/trips requires authentication', async () => {
     expect(response.status).toBe(401); // Unauthorized
 });
 --------------------------------------------------------------------------------------------------------------------------------
+How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+ANSWER: This course has tought me a lot specifically how a website is made from start to end. Specifically how an SPA websites are made. I learned how to implement a database into them and how to make GET, POST, PUT, and delete and how to test their functionality. Also howto set up html, spec.ts, and ts files in order to get a working page or function.
